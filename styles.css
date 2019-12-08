@@ -75,7 +75,6 @@ li a {
 	background-color: rgba(80, 80, 80, 0.7);
     border: white solid 1px;
     border-radius: 20%;
-    height: auto;
 }
 
 .footer {
@@ -93,7 +92,6 @@ li a {
 	background-color: rgba(80, 80, 80, 0.7);
     border: white solid 1px;
     border-radius: 20%;
-    height: auto;
 }
 
 #footer-size {
