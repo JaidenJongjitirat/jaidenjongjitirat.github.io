@@ -172,8 +172,8 @@ li a {
 /* OTHER */
 .me {
     border-radius: 50%;
-    height: 25%;
-    width: 75%;
+    height: auto;
+    width: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
