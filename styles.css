@@ -140,6 +140,9 @@ li a {
     position: relative;
     display: inline-block;
     float: right;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
   
 .dropdown-content {
@@ -169,4 +172,12 @@ li a {
   
 .dropdown:hover .dropbtn {
     background-color: black;
+}
+  
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    padding: 16px;
+    transition: 0.4s;
 }
